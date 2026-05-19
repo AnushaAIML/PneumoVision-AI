@@ -1,0 +1,11 @@
+ignore/
+myenv/
+venv/
+env/
+dataset/
+model/
+__pycache__/
+*.pt
+*.pth
+*.h5
+*.pkl
