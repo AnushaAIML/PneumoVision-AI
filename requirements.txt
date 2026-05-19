@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+pillow
+scikit-learn
+matplotlib
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
